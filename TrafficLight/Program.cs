@@ -132,9 +132,9 @@
     {
         static async Task Main()
         {
-            int redTime = 6;
-            int minGreenTime = 6;
-            int maxGreenTime = 6;
+            int redTime = 120;
+            int minGreenTime = 120;
+            int maxGreenTime = 360;
 
             TrafficLight trafficLight = new(redTime, minGreenTime, maxGreenTime);
             await trafficLight.StartAsync();
