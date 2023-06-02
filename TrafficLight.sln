@@ -5,6 +5,8 @@ VisualStudioVersion = 25.0.1706.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficLight", "TrafficLight\TrafficLight.csproj", "{61295CBC-2520-42AB-B103-EA53E1203A39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficLight.Test", "TrafficLightTest\TrafficLight.Test.csproj", "{0EC4E1D9-9B43-477A-8469-EE9DA463F90D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{61295CBC-2520-42AB-B103-EA53E1203A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61295CBC-2520-42AB-B103-EA53E1203A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61295CBC-2520-42AB-B103-EA53E1203A39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EC4E1D9-9B43-477A-8469-EE9DA463F90D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC4E1D9-9B43-477A-8469-EE9DA463F90D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC4E1D9-9B43-477A-8469-EE9DA463F90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC4E1D9-9B43-477A-8469-EE9DA463F90D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
